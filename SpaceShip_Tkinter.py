@@ -1,3 +1,10 @@
+# Jack Lawrence
+# 11th Advanced Programming`
+# 11/12/2018
+
+
+# Version 1.0
+
 from tkinter import *
 from tkinter import ttk
 
@@ -188,9 +195,3 @@ window5.withdraw()
 window.mainloop()
 
 
-# Jack Lawrence
-# 11th Advanced Programming`
-# 10/25/2018
-
-
-# Version 0.4
